@@ -1,0 +1,11 @@
+/bin
+/configure/CONFIG_SITE.local
+/configure/O.*
+/configure/RELEASE.local
+/db
+/dbd
+/include
+/lib
+/*App/Db/O.*
+/*App/src/O.*
+/iocBoot
