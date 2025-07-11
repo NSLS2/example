@@ -32,7 +32,6 @@
         /lib
         /*App/Db/O.*
         /*App/src/O.*
-        /iocBoot
     ```
     Finally, track files, make a commit, push it out:
     ```
