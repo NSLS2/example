@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iocexample")
+epicsEnvSet("TOP","/nsls2/users/yhu/example")
+epicsEnvSet("EPICS_BASE","/usr/lib/epics")
